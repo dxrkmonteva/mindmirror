@@ -1,6 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/friend", "destination": "/friend.html" },
-    { "source": "/friend/(.*)", "destination": "/friend.html" }
-  ]
-}
